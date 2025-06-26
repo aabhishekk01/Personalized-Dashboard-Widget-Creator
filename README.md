@@ -31,4 +31,4 @@ Welcome to the **Personalized Dashboard Widget Creator** – a dynamic web tool 
 ├── src/
 │   └── main.js
 ├── README.md
-└── package.json
+
