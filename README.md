@@ -2,7 +2,7 @@
 
 Welcome to the **Personalized Dashboard Widget Creator** – a dynamic web tool that lets users design and deploy custom dashboard widgets with ease. Whether you're creating weather updates, stock tickers, to-do lists, or system monitors, this project helps you build it visually and interactively.
 
-![Dashboard Preview](./assets/dashboard-preview.png)
+![Dashboard Preview](https://github.com/aabhishekk01/Personalized-Dashboard-Widget-Creator/blob/main/Screenshot%202025-06-26%20184309.png?raw=true)
 
 ## 🚀 Features
 
